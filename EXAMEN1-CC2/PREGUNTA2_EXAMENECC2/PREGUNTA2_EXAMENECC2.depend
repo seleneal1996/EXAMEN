@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525312274 source:/home/selene/EXAMEN1-CC2/PREGUNTA2_EXAMENECC2/main.cpp
+	<iostream>
+	<stdlib.h>
+
